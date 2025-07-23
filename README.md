@@ -16,21 +16,21 @@
 
 ---
 
-### 📈 GitHub Stats
+## 🪄 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" />
-</p>
+- [**Nex Store**](https://github.com/Sagar-006/Nex-Store-Frontend): A MERN-based real E-commerce app with authentication, filters, CRUD listings, and image uploads.
+- [**ChatApp**](https://github.com/Sagar-006/chat-application): Infinite scroll for users/messages, data cleanup on unmount/logout, screen & button loaders, edit profile page.
+- [**Second-Brain**](https://github.com/Sagar-006/second-brain-): A full-stack project ,which like Notes , where you can Save your important twiter,youtube video links and Notes.  
+
 
 ---
 
-### 📫 Connect with Me
+## 📬 Get in Touch
 
-<p align="left">
-  <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="twitter" height="30" width="30" /></a>
-  <a href="https://linkedin.com/in/yourhandle" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="30" /></a>
-</p>
+- 📧 Email: [sagarbiradar7030@gmail.com](mailto:sagarbiradar7030@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sagarbiradar](www.linkedin.com/in/sagarbiradar1234)
+- 🌐 Portfolio: [sagarbiradar.dev]
 
+---
+
+<p align="center"><b>Thank you! 😊</b></p>
