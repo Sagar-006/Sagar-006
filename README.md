@@ -28,7 +28,7 @@
 ## 📬 Get in Touch
 
 - 📧 Email: [sagarbiradar7030@gmail.com](mailto:sagarbiradar7030@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sagarbiradar](www.linkedin.com/in/sagarbiradar1234)
+- 💼 LinkedIn: [linkedin.com/in/sagarbiradar](https://linkedin.com/in/sagarbiradar1234)
 - 🌐 Portfolio: [sagarbiradar.dev]
 
 ---
