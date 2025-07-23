@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
+<h1 align="center">Hello👋, I'm Sagar Biradar!</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on **NexusEstate (MERN app)**  
-- 🌱 I’m currently learning **DevOps, TypeScript, and System Design**
-- 👨‍💻 All of my projects are available at [my portfolio](https://your-portfolio.com)
-- 📫 How to reach me **youremail@example.com**
-- ⚡ Fun fact: I ❤️ anime and debugging code at 2 AM
+- 🔭 I’m currently working on improving my skills in full-stack development. 
+- 📚 I'm currently learning the MERN stack and planning to explore DevOps next.
+- ⚡ In my free time, I create MERN-stack based projects, build animations, and playing cricket.
+- ⚡ Fun fact: I ❤️ Criket and debugging code at 2 AM.
 
 ---
 
