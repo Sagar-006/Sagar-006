@@ -18,7 +18,7 @@
 
 ## 🪄 Projects
 
-- [**Nex Store**](https://github.com/Sagar-006/Nex-Store-Frontend): A MERN-based real E-commerce app with authentication, filters, CRUD listings, and image uploads.
+- [**Nex Store**](https://nex-store-fht5.onrender.com/): A MERN-based real E-commerce app with authentication, filters, CRUD listings, and image uploads.
 - [**ChatApp**](https://github.com/Sagar-006/chat-application): Infinite scroll for users/messages, data cleanup on unmount/logout, screen & button loaders, edit profile page.
 - [**Second-Brain**](https://github.com/Sagar-006/second-brain-): A full-stack project ,which like Notes , where you can Save your important twiter,youtube video links and Notes.  
 
