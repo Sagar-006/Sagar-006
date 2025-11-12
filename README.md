@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on improving my skills in full-stack development. 
 - 📚 I'm currently learning the MERN stack and planning to explore DevOps next.
 - ⚡ In my free time, I create MERN-stack based projects, build animations, and playing cricket.
-- ⚡ Fun fact: I ❤️ Criket and debugging code at 2 AM.
+- ⚡ Fun fact: I ❤️ Cricket and debugging code at 2 AM.
 
 ---
 
